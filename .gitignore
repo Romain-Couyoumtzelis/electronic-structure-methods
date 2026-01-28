@@ -1,0 +1,32 @@
+# Computational chemistry output files
+*.log
+*.out
+*.dat
+*.cube
+*.fchk
+*.chk
+*.wfn
+*.molden
+*.xyz
+
+# Psi4 scratch/temporary files
+*.clean
+timer.dat
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Pickle files (optional - uncomment if you want to ignore these)
+# *.p
+
+# NumPy data files (optional - uncomment if you want to ignore these)
+# *.npy
